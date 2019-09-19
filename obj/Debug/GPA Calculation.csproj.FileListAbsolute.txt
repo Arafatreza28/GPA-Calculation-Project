@@ -1,0 +1,20 @@
+F:\day5\GPA Calculation\obj\Debug\GPA Calculation.csprojAssemblyReference.cache
+F:\day5\GPA Calculation\obj\Debug\GPA_Calculation.Properties.Resources.resources
+F:\day5\GPA Calculation\obj\Debug\GPA Calculation.csproj.GenerateResource.cache
+F:\day5\GPA Calculation\obj\Debug\GPA Calculation.csproj.CoreCompileInputs.cache
+F:\day5\GPA Calculation\obj\Debug\GPA_Calculation.Form1.resources
+F:\day5\GPA Calculation\bin\Debug\GPA Calculation.exe.config
+F:\day5\GPA Calculation\bin\Debug\GPA Calculation.exe
+F:\day5\GPA Calculation\bin\Debug\GPA Calculation.pdb
+F:\day5\GPA Calculation\obj\Debug\GPA Calculation.exe
+F:\day5\GPA Calculation\obj\Debug\GPA Calculation.pdb
+F:\ARAFAT\GPA Calculation\obj\Debug\GPA Calculation.csprojAssemblyReference.cache
+F:\ARAFAT\GPA Calculation\obj\Debug\GPA_Calculation.Form1.resources
+F:\ARAFAT\GPA Calculation\obj\Debug\GPA_Calculation.Properties.Resources.resources
+F:\ARAFAT\GPA Calculation\obj\Debug\GPA Calculation.csproj.GenerateResource.cache
+F:\ARAFAT\GPA Calculation\obj\Debug\GPA Calculation.csproj.CoreCompileInputs.cache
+F:\ARAFAT\GPA Calculation\obj\Debug\GPA Calculation.exe
+F:\ARAFAT\GPA Calculation\obj\Debug\GPA Calculation.pdb
+F:\ARAFAT\GPA Calculation\bin\Debug\GPA Calculation.exe.config
+F:\ARAFAT\GPA Calculation\bin\Debug\GPA Calculation.exe
+F:\ARAFAT\GPA Calculation\bin\Debug\GPA Calculation.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPA Calculation", "GPA Calculation.csproj", "{DD420D21-D8B1-450D-A4C9-0E4D9C64D4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD420D21-D8B1-450D-A4C9-0E4D9C64D4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD420D21-D8B1-450D-A4C9-0E4D9C64D4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD420D21-D8B1-450D-A4C9-0E4D9C64D4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD420D21-D8B1-450D-A4C9-0E4D9C64D4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1019D3F0-1D73-4DE2-8E2F-4C7FBB97FC54}
+	EndGlobalSection
+EndGlobal
